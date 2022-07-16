@@ -25,7 +25,7 @@
 
 <script>
 export default {
-  // eslint-disable-ne xt-line vue/multi-word-component-names
+  // eslint-disable-next-line vue/multi-word-component-names
   name: 'Login',
   data () {
     return {
